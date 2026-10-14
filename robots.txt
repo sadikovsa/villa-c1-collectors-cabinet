@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://sadikovsa.github.io/villa-c1-collectors-cabinet/sitemap.xml
